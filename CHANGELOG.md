@@ -1,3 +1,5 @@
+## 20201022
+* forked from original and test
 ## 20200909
 * 更新 SmartDNS
 
