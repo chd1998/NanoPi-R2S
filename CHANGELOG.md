@@ -1,5 +1,6 @@
 ## 20201023
 * sync to latest clash
+* modified code to get clash binaries
 
 ## 20201022
 * forked from original and test
