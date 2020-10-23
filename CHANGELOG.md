@@ -1,3 +1,6 @@
+## 20201023
+* sync to latest clash
+
 ## 20201022
 * forked from original and test
 
