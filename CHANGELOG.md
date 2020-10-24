@@ -1,3 +1,6 @@
+## 20201024
+* add star to start
+
 ## 20201023
 * sync to latest clash
 * modified code to get clash binaries
